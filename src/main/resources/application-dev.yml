@@ -1,0 +1,6 @@
+# 配置类参数(示例)
+aliyun:
+  appKey: 1
+  appSecret: 1
+  bucket: lynn
+  endPoint: https://www.aliyun.com
